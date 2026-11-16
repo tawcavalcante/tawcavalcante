@@ -21,10 +21,10 @@
 <h3 align="center">Sobre Mim</h3>
 
 <div align="center">
-  🎓 Graduando em Engenharia de Software na <b>Universidade de Brasília (UnB)</b><br>
-  📐 Monitor acadêmico de <b>Introdução à Álgebra Linear</b><br>
-  🚀 Membro trainee na <b>Orc'estra Gamificação</b><br>
-  ⚙️ Foco em desenvolvimento backend, automação e sistemas digitais
+  - Graduando em Engenharia de Software na <b>Universidade de Brasília (UnB)</b><br>
+  - Monitor acadêmico de <b>Introdução à Álgebra Linear</b><br>
+  - Membro trainee na <b>Orc'estra Gamificação</b><br>
+  - Foco em desenvolvimento backend, automação e sistemas digitais
 </div>
 
 <hr>
