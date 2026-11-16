@@ -1,6 +1,6 @@
 <!-- Banner Superior -->
 <div align="center">
-  <img src="./assets/banner.sgv" width="100%" alt="Capa Tawan Cavalcante">
+  <img src="./assets/banner.svg" width="100%" alt="Capa Tawan Cavalcante">
 </div>
 
 <!-- Conexão -->
